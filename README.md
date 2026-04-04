@@ -1,14 +1,14 @@
 # Siddharth Raipal
 
-MS CS @ USC (graduating May 2026). Previously MLE at an early-stage startup in India.
+Incoming MLE at Microsoft. MS CS @ USC (graduating May 2026). Previously MLE at an early-stage startup in India.
 
 I work on machine learning systems — graph neural networks, retrieval-augmented generation, and applied ML for healthcare.
 
 ## Research
 
-- **Published in Knowledge-Based Systems (KBS)** — Multi-agent glaucoma patient chatbot - "GlaucomaGuide"
-- **RESL Lab, USC** — Multi Agent RL for robotic learning
-- **Info Lab, USC** — Interpretable Dementia Risk Precision tool
+- **Under review at Knowledge-Based Systems (Elsevier)** — Multi-turn glaucoma patient chatbot - "GlaucomaGuide"
+- **RESL Lab, USC** — Multi-Agent RL for non-prehensile robotic manipulation
+- **InfoLab, USC** — Dementia Precision Risk Tool
 
 ## Projects
 
