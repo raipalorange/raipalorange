@@ -1,6 +1,6 @@
 # Siddharth Raipal
 
-Incoming MLE at Microsoft. MS CS @ USC (graduating May 2026). Previously MLE at an early-stage startup in India.
+MS CS @ USC (graduating May 2026). Previously MLE at an early-stage startup in India.
 
 I work on machine learning systems — graph neural networks, retrieval-augmented generation, and applied ML for healthcare.
 
